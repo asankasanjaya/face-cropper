@@ -1,5 +1,5 @@
 # face-cropper
-This is a simple c++ program which reads image files in a directory and crops the human faces. It detects the largest human face from the input image and crop the face and save the face in the disk. So you can input bunch of images in order to detect the face.
+This is a simple c++ program which reads image files from a directory and crops human faces. It detects the largest human face from the input image, crop the face and save the face in the disk. So you can input bunch of images in order to detect the face.
 
 One of the use case of this program is, in cascade classifiers training, we should input thousands of images. So if it is related to face or facial expressions etc, we can use this program to crop the faces from bunch of images easily.
 
